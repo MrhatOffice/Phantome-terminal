@@ -4,3 +4,6 @@ A advenced terminal made by python can help you more then others terminal
 First click to the python file 
 seconde tap the command : help
 it will show you all commands of the terminal
+# Version 
+last update 1.2
+
